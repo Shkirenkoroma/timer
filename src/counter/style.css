@@ -1,0 +1,23 @@
+.time {
+	color: rgb(54, 238, 12);
+}
+span {
+	font-size: 64px;
+}
+
+.button__time{
+padding: 10px 15px;
+border-radius:10px;
+border:none;
+margin: 0 10px 0 0;
+
+}
+.button__time-text{
+   font-size:34px;
+}
+.button__time:hover{
+   cursor:pointer;
+   background-color: rgb(54, 238, 12);
+   border:none;
+   transition: all 600ms;
+}
